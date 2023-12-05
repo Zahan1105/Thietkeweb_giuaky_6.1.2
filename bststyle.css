@@ -1,0 +1,45 @@
+body {
+    width: 100%;
+    height: 100vh;
+    background: url(img/hlw1.webp) no-repeat center center fixed;
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+.header h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    font-family: Arial;
+    color: red;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 20px;
+
+}
+
+.BandS .row .col-4 img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.SandB .row .col-3 img {
+    width: 100%;
+    height: 380px;
+    object-fit: cover;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.CandA .row .col-4 img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border: 2px solid black;
+    border-radius: 5px;
+}

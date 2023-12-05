@@ -1,0 +1,36 @@
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+    float: left;
+    padding: 20px;
+}
+
+.header {
+    text-align: right;
+
+
+}
+
+img {
+    position: absolute;
+
+}
+
+
+
+body {
+    background-image: url('img/thumbnail.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.img {
+    width: auto;
+    margin-left: 25%;
+    margin-right: 40%;
+
+}
